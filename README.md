@@ -18,10 +18,10 @@ The dataset consists of multiple measurement sessions collected from a PMSM depl
 The performance of the models is evaluated through loss and accuracy metrics during the training process. The results indicate that the combined approach of NNs and RNNs significantly enhances temperature estimation accuracy, with the RNN effectively mitigating the issue of spikes in temperature predictions.
 
 ### Drawback of Normal NN
-**[Drawback of Normal NN](NN.png)**
+[Drawback of Normal NN](NN.png)
 
 ### How RNN Fixed the Spikes Problem
-**[How RNN Fixed the Spikes Problem](RNN.png)**
+[How RNN Fixed the Spikes Problem](RNN.png)
 
 ## Conclusion
 The integration of NNs and RNNs has led to significant advancements in accurately predicting and monitoring the temperature of PMSMs. This project highlights the potential of RNNs in improving the performance and reliability of electrical machines in various industrial applications, showcasing their ability to handle complex, time-dependent data effectively.
