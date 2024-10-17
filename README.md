@@ -23,5 +23,9 @@ The performance of the models is evaluated through loss and accuracy metrics dur
 ### How RNN Fixed the Spikes Problem
 ![How RNN Fixed the Spikes Problem](RNN.png)
 
+## Also
+- **Research Report**: For a detailed exploration of the methodologies and findings, refer to the [Research Report](Rapport_IMED_NADHIR___Teguar.pdf).
+- **Jupyter Notebook**: The implementation and experiments can be found in the [SEMINAR.ipynb](SEMINAR.ipynb) file.
+
 ## Conclusion
 The integration of NNs and RNNs has led to significant advancements in accurately predicting and monitoring the temperature of PMSMs. This project highlights the potential of RNNs in improving the performance and reliability of electrical machines in various industrial applications, showcasing their ability to handle complex, time-dependent data effectively.
